@@ -6,8 +6,6 @@ public class Question2
   {
     Scanner in = new Scanner(System.in);
 
-    Scanner in = new Scanner(System.in);
-
     while (true)
       {
         System.out.print("Enter your weight in kg: ");
