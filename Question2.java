@@ -6,19 +6,17 @@ public class Question2
   {
     Scanner in = new Scanner(System.in);
 
-    while (true)
-      {
-        System.out.print("Enter your weight in kg: ");
-        double weight = in.nextDouble();
-        
-        System.out.print("Enter your height in meters: ");
-        double height = in.nextDouble();
-        
-        double bmi = weight / (height * height);
 
-        System.out.println(bmi);
+    System.out.println("Enter your weight in kg: ");
+    double weight = in.nextDouble();
+        
+    System.out.println("Enter your height in meters: ");
+    double height = in.nextDouble();
+        
+    double bmi = weight / (height * height);
 
-        break;
-      }
+    System.out.println(bmi);
+
+
   }
 }
