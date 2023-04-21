@@ -4,7 +4,7 @@ public class Question1
   {
     /**
      * Print "Hello World!"
-     * 
+     * hello
      * Hint: System.out.println(...)
      */
   }
