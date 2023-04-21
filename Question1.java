@@ -4,8 +4,10 @@ public class Question1
   {
     /**
      * Print "Hello World!"
-     * hello
+     * 
      * Hint: System.out.println(...)
      */
+
+    System.out.println("Hello, World!");
   }
 }
