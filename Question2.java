@@ -6,10 +6,10 @@ public class Question2
   {
     try (Scanner in = new Scanner(System.in)) 
     {
-      System.out.println("Enter your weight in kg: ");
+      // System.out.println("Enter your weight in kg: ");
       double weight = in.nextDouble();
           
-      System.out.println("Enter your height in meters: ");
+      // System.out.println("Enter your height in meters: ");
       double height = in.nextDouble();
           
       double bmi = weight / (height * height);
