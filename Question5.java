@@ -13,13 +13,13 @@ public class Question5
 
     while (true)
     {
-      System.out.print("Enter the number of integers: ");
+      // System.out.print("Enter the number of integers: ");
       int count = in.nextInt();
 
       // List<Integer> num_list = new ArrayList<>();
       for (int i = 0; i < count; i++) 
       {
-        System.out.print("Enter an integer: ");
+        // System.out.print("Enter an integer: ");
         int number = in.nextInt();
         num_list.add(number);
       }
@@ -42,7 +42,7 @@ public class Question5
       }
 
     }
-    System.out.println("The mode is: " + mode);
+    System.out.println(mode);
 
 
 

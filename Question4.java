@@ -6,7 +6,7 @@ public class Question4
   {
     Scanner in = new Scanner(System.in);
 
-    System.out.print("Enter the base of the triangle: ");
+    // System.out.print("Enter the base of the triangle: ");
 
     int base = in.nextInt();
 
