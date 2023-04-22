@@ -23,7 +23,7 @@ public class Question5
         int number = in.nextInt();
         num_list.add(number);
       }
-      System.out.print(num_list);
+      // System.out.print(num_list);
       break;
     }
 
